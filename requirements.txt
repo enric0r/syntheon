@@ -1,7 +1,7 @@
 librosa==0.9.1
 torch==2.2.0
 torchvision==0.13.1
-torchaudio==0.12.1
+torchaudio==2.5.1
 pyyaml
 mido 
 nnAudio==0.3.1 
